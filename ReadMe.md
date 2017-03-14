@@ -1,0 +1,1 @@
+﻿simple redis cache that provide same interface in standalone sentinel and cluster model
